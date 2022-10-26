@@ -12,7 +12,7 @@ console.log('Name: ' + 'jacob seaton'.toUpperCase());
 console.log('Career: Web Developer');
 console.log('Description: Learning new things.');
 console.log('');
-console.log('My Interests');
+console.log('My Interests:');
 console.log('* Montana');
 console.log('* Programming');
 console.log('* Exercise');
