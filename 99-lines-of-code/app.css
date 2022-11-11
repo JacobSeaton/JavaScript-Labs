@@ -10,11 +10,17 @@ h1 {
     background-color: blue;
 }
 
-h3 {
+.friend h3 {
     text-transform: uppercase;
     color: white;
 }
 
+
 p {
+    text-align: center;
     color: white;
+}
+
+h2 {
+    color: red;
 }
